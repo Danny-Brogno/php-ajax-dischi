@@ -1,5 +1,16 @@
 <?php
 
+// GOAL: Attraverso l'utilizzo di Axios: al caricamento
+// della pagina axios chiederà attraverso una
+// chiamata API i dischi a php e li stamperà
+// attraverso vue.
+// OPZIONALE
+// - Attraverso un'altra chiamata API, ﬁltrare gli
+// album per genere
+
+
+
+
 header('Content-Type: application/json');
 
 
