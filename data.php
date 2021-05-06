@@ -1,6 +1,6 @@
 <?php
 
-// header('Content-Type: application/json');
+header('Content-Type: application/json');
 
 
 $db = [
@@ -76,5 +76,5 @@ $db = [
         ]
     ];
 
-    // echo json_encode($db);
+    echo json_encode($db);
 ?>
